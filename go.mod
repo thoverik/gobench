@@ -1,4 +1,4 @@
-module github.com/gobench-io/gobench
+module github.com/thoverik/gobench
 
 go 1.14
 
