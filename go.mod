@@ -8,6 +8,7 @@ require (
 	github.com/go-chi/chi v4.1.0+incompatible
 	github.com/go-chi/cors v1.0.1
 	github.com/go-chi/render v1.0.1
+	github.com/gobench-io/gobench v0.0.0-20200608072955-62040b2c9e6e
 	github.com/jordan-wright/email v0.0.0-20200322182553-8eef2508c362
 	github.com/mattn/go-sqlite3 v1.13.0
 	github.com/nats-io/nats-server/v2 v2.1.0 // indirect

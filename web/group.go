@@ -7,8 +7,8 @@ import (
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/render"
-	"github.com/gobench-io/gobench/ent"
-	"github.com/gobench-io/gobench/ent/group"
+	"github.com/thoverik/gobench/ent"
+	"github.com/thoverik/gobench/ent/group"
 )
 
 func groupCtx(next http.Handler) http.Handler {

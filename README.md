@@ -2,7 +2,7 @@
 
 A distributed benchmark tool with Golang
 
-[![Build Status](https://github.com/gobench-io/gobench/workflows/build/badge.svg)](https://github.com/gobench-io/gobench/actions)
+[![Build Status](https://github.com/thoverik/gobench/workflows/build/badge.svg)](https://github.com/thoverik/gobench/actions)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-unstable-red.svg)
 
@@ -28,7 +28,7 @@ http://localhost:1234/api/metrics/55/histograms?from=1586320159476&end=158632016
 
 ## Tool gobench-reviewer
 
-<a href="https://github.com/gobench-io/gobench/blob/master/docs/images/gobench_viewer.png"><img src="./docs/images/gobench_viewer.png" width="500"></a>
+<a href="https://github.com/thoverik/gobench/blob/master/docs/images/gobench_viewer.png"><img src="./docs/images/gobench_viewer.png" width="500"></a>
 
 ## How to write a new worker
 

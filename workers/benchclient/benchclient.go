@@ -6,8 +6,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/gobench-io/gobench"
-	"github.com/gobench-io/gobench/metrics"
+	"github.com/thoverik/gobench"
+	"github.com/thoverik/gobench/metrics"
 )
 
 // cpu

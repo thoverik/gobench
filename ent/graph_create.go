@@ -9,9 +9,9 @@ import (
 
 	"github.com/facebookincubator/ent/dialect/sql/sqlgraph"
 	"github.com/facebookincubator/ent/schema/field"
-	"github.com/gobench-io/gobench/ent/graph"
-	"github.com/gobench-io/gobench/ent/group"
-	"github.com/gobench-io/gobench/ent/metric"
+	"github.com/thoverik/gobench/ent/graph"
+	"github.com/thoverik/gobench/ent/group"
+	"github.com/thoverik/gobench/ent/metric"
 )
 
 // GraphCreate is the builder for creating a Graph entity.

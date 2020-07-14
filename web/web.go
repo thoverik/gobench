@@ -9,9 +9,9 @@ import (
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/cors"
-	"github.com/gobench-io/gobench"
-	"github.com/gobench-io/gobench/ent"
-	_ "github.com/gobench-io/gobench/web/statik"
+	"github.com/thoverik/gobench"
+	"github.com/thoverik/gobench/ent"
+	_ "github.com/thoverik/gobench/web/statik"
 	"github.com/rakyll/statik/fs"
 )
 

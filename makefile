@@ -24,7 +24,7 @@ examples:
 	$(foreach var, $(EXAMPLES), go build -o ./.bin/${var} $(var);)
 
 tools:
-	go build -o ./.bin/github.com/gobench-io/gobench/tools/gobench-viewer github.com/gobench-io/gobench/tools/gobench-viewer
+	go build -o ./.bin/github.com/thoverik/gobench/tools/gobench-viewer github.com/thoverik/gobench/tools/gobench-viewer
 
 # generate ent models
 ent:

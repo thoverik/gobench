@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gobench-io/gobench"
-	"github.com/gobench-io/gobench/web"
-	"github.com/gobench-io/gobench/workers/benchclient"
-	httpClient "github.com/gobench-io/gobench/workers/http"
+	"github.com/thoverik/gobench"
+	"github.com/thoverik/gobench/web"
+	"github.com/thoverik/gobench/workers/benchclient"
+	httpClient "github.com/thoverik/gobench/workers/http"
 
-	"github.com/gobench-io/gobench/services/smtp"
+	"github.com/thoverik/gobench/services/smtp"
 )
 
 func main() {

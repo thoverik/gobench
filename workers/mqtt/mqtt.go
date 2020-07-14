@@ -6,8 +6,8 @@ import (
 	"time"
 
 	paho "github.com/eclipse/paho.mqtt.golang"
-	"github.com/gobench-io/gobench"
-	"github.com/gobench-io/gobench/metrics"
+	"github.com/thoverik/gobench"
+	"github.com/thoverik/gobench/metrics"
 )
 
 const conTotal string = "mqtt.connection.current_total"

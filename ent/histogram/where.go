@@ -5,7 +5,7 @@ package histogram
 import (
 	"github.com/facebookincubator/ent/dialect/sql"
 	"github.com/facebookincubator/ent/dialect/sql/sqlgraph"
-	"github.com/gobench-io/gobench/ent/predicate"
+	"github.com/thoverik/gobench/ent/predicate"
 )
 
 // ID filters vertices based on their identifier.

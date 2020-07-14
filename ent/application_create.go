@@ -10,7 +10,7 @@ import (
 
 	"github.com/facebookincubator/ent/dialect/sql/sqlgraph"
 	"github.com/facebookincubator/ent/schema/field"
-	"github.com/gobench-io/gobench/ent/application"
+	"github.com/thoverik/gobench/ent/application"
 )
 
 // ApplicationCreate is the builder for creating a Application entity.

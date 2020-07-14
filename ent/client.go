@@ -7,15 +7,15 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gobench-io/gobench/ent/migrate"
+	"github.com/thoverik/gobench/ent/migrate"
 
-	"github.com/gobench-io/gobench/ent/application"
-	"github.com/gobench-io/gobench/ent/counter"
-	"github.com/gobench-io/gobench/ent/gauge"
-	"github.com/gobench-io/gobench/ent/graph"
-	"github.com/gobench-io/gobench/ent/group"
-	"github.com/gobench-io/gobench/ent/histogram"
-	"github.com/gobench-io/gobench/ent/metric"
+	"github.com/thoverik/gobench/ent/application"
+	"github.com/thoverik/gobench/ent/counter"
+	"github.com/thoverik/gobench/ent/gauge"
+	"github.com/thoverik/gobench/ent/graph"
+	"github.com/thoverik/gobench/ent/group"
+	"github.com/thoverik/gobench/ent/histogram"
+	"github.com/thoverik/gobench/ent/metric"
 
 	"github.com/facebookincubator/ent/dialect"
 	"github.com/facebookincubator/ent/dialect/sql"

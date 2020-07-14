@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/facebookincubator/ent/dialect/sql"
-	"github.com/gobench-io/gobench/ent/group"
+	"github.com/thoverik/gobench/ent/group"
 )
 
 // Group is the model entity for the Group schema.

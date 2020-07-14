@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/gobench-io/gobench/ent"
-	"github.com/gobench-io/gobench/web"
+	"github.com/thoverik/gobench/ent"
+	"github.com/thoverik/gobench/web"
 	_ "github.com/mattn/go-sqlite3"
 )
 

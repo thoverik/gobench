@@ -8,11 +8,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gobench-io/gobench/ent"
-	"github.com/gobench-io/gobench/metrics"
+	"github.com/thoverik/gobench/ent"
+	"github.com/thoverik/gobench/metrics"
 	gometrics "github.com/rcrowley/go-metrics"
 
-	"github.com/gobench-io/gobench/services/smtp"
+	"github.com/thoverik/gobench/services/smtp"
 )
 
 var ErrIdNotFound = errors.New("id not found")

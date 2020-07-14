@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/gobench-io/gobench"
-	"github.com/gobench-io/gobench/web"
-	"github.com/gobench-io/gobench/workers/benchclient"
-	nats "github.com/gobench-io/gobench/workers/nats"
+	"github.com/thoverik/gobench"
+	"github.com/thoverik/gobench/web"
+	"github.com/thoverik/gobench/workers/benchclient"
+	nats "github.com/thoverik/gobench/workers/nats"
 )
 
 func main() {

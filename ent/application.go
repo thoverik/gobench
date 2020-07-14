@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/facebookincubator/ent/dialect/sql"
-	"github.com/gobench-io/gobench/ent/application"
+	"github.com/thoverik/gobench/ent/application"
 )
 
 // Application is the model entity for the Application schema.

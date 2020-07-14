@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/go-chi/render"
-	"github.com/gobench-io/gobench/ent"
+	"github.com/thoverik/gobench/ent"
 )
 
 type ErrResponse struct {

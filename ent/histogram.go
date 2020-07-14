@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/facebookincubator/ent/dialect/sql"
-	"github.com/gobench-io/gobench/ent/histogram"
-	"github.com/gobench-io/gobench/ent/metric"
+	"github.com/thoverik/gobench/ent/histogram"
+	"github.com/thoverik/gobench/ent/metric"
 )
 
 // Histogram is the model entity for the Histogram schema.

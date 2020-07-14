@@ -9,8 +9,8 @@ import (
 	"github.com/facebookincubator/ent/dialect/sql"
 	"github.com/facebookincubator/ent/dialect/sql/sqlgraph"
 	"github.com/facebookincubator/ent/schema/field"
-	"github.com/gobench-io/gobench/ent/counter"
-	"github.com/gobench-io/gobench/ent/predicate"
+	"github.com/thoverik/gobench/ent/counter"
+	"github.com/thoverik/gobench/ent/predicate"
 )
 
 // CounterDelete is the builder for deleting a Counter entity.

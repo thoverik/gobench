@@ -5,14 +5,14 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gobench-io/gobench/ent"
+	"github.com/thoverik/gobench/ent"
 	_ "github.com/mattn/go-sqlite3"
 
-	entApplication "github.com/gobench-io/gobench/ent/application"
-	entGroup "github.com/gobench-io/gobench/ent/group"
-	entMetric "github.com/gobench-io/gobench/ent/metric"
+	entApplication "github.com/thoverik/gobench/ent/application"
+	entGroup "github.com/thoverik/gobench/ent/group"
+	entMetric "github.com/thoverik/gobench/ent/metric"
 
-	"github.com/gobench-io/gobench/metrics"
+	"github.com/thoverik/gobench/metrics"
 )
 
 // func dSetupTables(db *sql.DB, metrics map[string]Unit) error {

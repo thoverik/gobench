@@ -5,8 +5,8 @@ package ent
 import (
 	"time"
 
-	"github.com/gobench-io/gobench/ent/application"
-	"github.com/gobench-io/gobench/ent/schema"
+	"github.com/thoverik/gobench/ent/application"
+	"github.com/thoverik/gobench/ent/schema"
 )
 
 // The init function reads all schema descriptors with runtime

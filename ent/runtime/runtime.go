@@ -2,7 +2,7 @@
 
 package runtime
 
-// The schema-stitching logic is generated in github.com/gobench-io/gobench/ent/runtime.go
+// The schema-stitching logic is generated in github.com/thoverik/gobench/ent/runtime.go
 
 const (
 	Version = "v0.2.2"                                          // Version of ent codegen.

@@ -14,10 +14,10 @@ import (
 	"log"
 	"sync"
 
-	"github.com/gobench-io/gobench"
-	"github.com/gobench-io/gobench/web"
-	"github.com/gobench-io/gobench/workers/benchclient"
-	"github.com/gobench-io/gobench/workers/mqtt"
+	"github.com/thoverik/gobench"
+	"github.com/thoverik/gobench/web"
+	"github.com/thoverik/gobench/workers/benchclient"
+	"github.com/thoverik/gobench/workers/mqtt"
 )
 
 func main() {

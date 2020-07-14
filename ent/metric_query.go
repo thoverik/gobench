@@ -12,12 +12,12 @@ import (
 	"github.com/facebookincubator/ent/dialect/sql"
 	"github.com/facebookincubator/ent/dialect/sql/sqlgraph"
 	"github.com/facebookincubator/ent/schema/field"
-	"github.com/gobench-io/gobench/ent/counter"
-	"github.com/gobench-io/gobench/ent/gauge"
-	"github.com/gobench-io/gobench/ent/graph"
-	"github.com/gobench-io/gobench/ent/histogram"
-	"github.com/gobench-io/gobench/ent/metric"
-	"github.com/gobench-io/gobench/ent/predicate"
+	"github.com/thoverik/gobench/ent/counter"
+	"github.com/thoverik/gobench/ent/gauge"
+	"github.com/thoverik/gobench/ent/graph"
+	"github.com/thoverik/gobench/ent/histogram"
+	"github.com/thoverik/gobench/ent/metric"
+	"github.com/thoverik/gobench/ent/predicate"
 )
 
 // MetricQuery is the builder for querying Metric entities.
